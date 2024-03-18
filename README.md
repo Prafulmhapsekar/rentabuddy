@@ -1,1 +1,1 @@
-# rentabuddy
+# Skeleton project for Swagger
